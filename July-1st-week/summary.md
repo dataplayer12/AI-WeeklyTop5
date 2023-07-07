@@ -1,8 +1,6 @@
 ## Paper 1
 
-Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing
-
-[Paper](https://arxiv.org/abs//2306.17848)
+[Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/abs//2306.17848)
 
 [Project Page](https://arielnlee.github.io/PatchMixing/)
 
@@ -13,9 +11,7 @@ Vision transformers (ViTs) have significantly changed the computer vision landsc
 
 ## Paper 2
 
-An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs
-
-[Paper](https://arxiv.org/abs//2306.16601)
+[An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs](https://arxiv.org/abs//2306.16601)
 
 [Code](https://github.com/intel/intel-extension-for-transformers)
 
@@ -25,12 +21,20 @@ In recent years, Transformer-based language models have become the standard appr
 
 ## Paper 3
 
-Faster Segment Anything: Towards Lightweight SAM for Mobile Applications
-
-[Paper](https://arxiv.org/abs//2306.14289)
+[Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/abs//2306.14289)
 
 [Code](https://github.com/ChaoningZhang/MobileSAM)
 
 Abstract:
 
 Segment anything model (SAM) is a prompt-guided vision foundation model for cutting out the object of interest from its background. Since Meta research team released the SA project, SAM has attracted significant attention due to its impressive zero-shot transfer performance and high versatility of being compatible with other models for advanced vision applications like image editing with fine-grained control. Many of such use cases need to be run on resource-constraint edge devices, like mobile Apps. In this work, we aim to make SAM mobile-friendly by replacing the heavyweight image encoder with a lightweight one. A naive way to train such a new SAM as in the original SAM paper leads to unsatisfactory performance, especially when limited training sources are available. We find that this is mainly caused by the coupled optimization of the image encoder and mask decoder, motivated by which we propose decoupled distillation. Concretely, we distill the knowledge from the image encoder ViT-H in the original SAM to a lightweight image encoder, which can be automatically compatible with the mask decoder in the original SAM. The training can be completed on a single GPU within less than one day, and the resulting lightweight SAM is termed MobileSAM which is more than 60 times smaller yet performs on par with the original SAM. For inference speed, MobileSAM runs around 10ms per image: 8ms on the image encoder and 2ms on the mask decoder. With superior performance and a higher versatility, our MobileSAM is 7 times smaller and 4 times faster than the concurrent FastSAM, making it more suitable for mobile applications.
+
+## Paper 4
+
+[Trainable Transformer in Transformer](https://arxiv.org/abs/2307.01189)
+
+[Code](https://github.com/abhishekpanigrahi1996/transformer_in_transformer)
+
+Abstract:
+
+Recent works attribute the capability of in-context learning (ICL) in large pre-trained language models to implicitly simulating and fine-tuning an internal model (e.g., linear or 2-layer MLP) during inference. However, such constructions require large memory overhead, which makes simulation of more sophisticated internal models intractable. In this work, we propose an efficient construction, Transformer in Transformer (in short, TinT), that allows a transformer to simulate and fine-tune complex models internally during inference (e.g., pre-trained language models). In particular, we introduce innovative approximation techniques that allow a TinT model with less than 2 billion parameters to simulate and fine-tune a 125 million parameter transformer model within a single forward pass. TinT accommodates many common transformer variants and its design ideas also improve the efficiency of past instantiations of simple models inside transformers. We conduct end-to-end experiments to validate the internal fine-tuning procedure of TinT on various language modeling and downstream tasks. For example, even with a limited one-step budget, we observe TinT for a OPT-125M model improves performance by 4-16% absolute on average compared to OPT-125M. These findings suggest that large pre-trained language models are capable of performing intricate subroutines. To facilitate further work, a modular and extensible codebase for TinT is included.
