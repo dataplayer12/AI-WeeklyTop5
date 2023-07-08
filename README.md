@@ -5,4 +5,4 @@ This repo hosts the papers covered in our weekly series of talks 'Top 5 AI paper
 
 2023
 
-[July 1st Week](https://github.com/dataplayer12/AI-WeeklyTop5/blob/main/July-1st-week/summary.md)
+[July 1st Week](https://github.com/dataplayer12/AI-WeeklyTop5/blob/main/July-1st-week/README.md)
