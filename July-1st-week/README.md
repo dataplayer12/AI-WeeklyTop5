@@ -31,6 +31,16 @@ Segment anything model (SAM) is a prompt-guided vision foundation model for cutt
 
 ## Paper 4
 
+[LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)
+
+[Code](https://github.com/microsoft/unilm/tree/master)
+
+Abstrct:
+
+Scaling sequence length has become a critical demand in the era of large language models. However, existing methods struggle with either computational complexity or model expressivity, rendering the maximum sequence length restricted. In this work, we introduce LONGNET, a Transformer variant that can scale sequence length to more than 1 billion tokens, without sacrificing the performance on shorter sequences. Specifically, we propose dilated attention, which expands the attentive field exponentially as the distance grows. LONGNET has significant advantages: 1) it has a linear computation complexity and a logarithm dependency between tokens; 2) it can be served as a distributed trainer for extremely long sequences; 3) its dilated attention is a drop-in replacement for standard attention, which can be seamlessly integrated with the existing Transformer-based optimization. Experiments results demonstrate that LONGNET yields strong performance on both long-sequence modeling and general language tasks. Our work opens up new possibilities for modeling very long sequences, e.g., treating a whole corpus or even the entire Internet as a sequence.
+
+## Paper 5
+
 [Trainable Transformer in Transformer](https://arxiv.org/abs/2307.01189)
 
 [Code](https://github.com/abhishekpanigrahi1996/transformer_in_transformer)
