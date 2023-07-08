@@ -5,6 +5,7 @@ This repo hosts the papers covered in our weekly series of talks 'Top 5 AI paper
 
 2023
 
+What follows is a simple explanation of each paper. Abstracts, links to the papers and code are here:
 [July 1st Week](https://github.com/dataplayer12/AI-WeeklyTop5/blob/main/July-1st-week/README.md)
 
 Here is my selection of the top 5 AI papers this week.
