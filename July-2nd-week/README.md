@@ -1,3 +1,5 @@
+# [Listen to the Clubhouse room here](https://www.clubhouse.com/room/PrKLag65?utm_medium=ch_room_xr&utm_campaign=kg8TmJ4Li51ChJWVy-byMA-826941)
+
 # Paper 1
 
 [Segment Anything Meets Point Tracking](https://arxiv.org/abs/2307.01197)
