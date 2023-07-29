@@ -1,3 +1,5 @@
+# [Listen to the Clubhouse recording here](https://www.clubhouse.com/room/Pv91Lv3D?utm_medium=ch_room_xr&utm_campaign=kg8TmJ4Li51ChJWVy-byMA-826941)
+
 ## Paper 1
 
 [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/abs//2306.17848)
