@@ -13,3 +13,5 @@ Abstracts, links to the papers and code are here:
 [July 3rd Week](https://github.com/dataplayer12/AI-WeeklyTop5/blob/main/July-3rd-week/README.md)
 
 [July 4th Week](https://github.com/dataplayer12/AI-WeeklyTop5/blob/main/July-4th-week/README.md)
+
+[August 1st Week](https://github.com/dataplayer12/AI-WeeklyTop5/tree/main/August-1st-week/README.md)
