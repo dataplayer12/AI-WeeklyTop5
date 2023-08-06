@@ -1,3 +1,5 @@
+# [Listen to the Clubhouse room here](https://www.clubhouse.com/room/mZ0Q33QA?utm_medium=ch_room_xr&utm_campaign=kg8TmJ4Li51ChJWVy-byMA-837764)
+
 # Paper 1
 
 [DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales](https://arxiv.org/abs/2308.01320)
