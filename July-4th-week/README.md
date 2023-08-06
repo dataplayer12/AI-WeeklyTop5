@@ -1,3 +1,5 @@
+# [Listen to the Clubhouse room here](https://www.clubhouse.com/room/MdgOnJpK?utm_medium=ch_room_xr&utm_campaign=kg8TmJ4Li51ChJWVy-byMA-837761)
+
 ## Paper 1: Tracking Anything in High Quality
 
 [Paper](https://arxiv.org/pdf/2307.13974)
