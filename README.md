@@ -17,3 +17,5 @@ This repo hosts the papers covered in our weekly series of talks 'Top 5 AI paper
 ## [July 4th Week](https://github.com/dataplayer12/AI-WeeklyTop5/blob/main/July-4th-week/README.md)
 
 ## [August 1st Week](https://github.com/dataplayer12/AI-WeeklyTop5/tree/main/August-1st-week/README.md)
+
+## [August 2nd Week](https://github.com/dataplayer12/AI-WeeklyTop5/tree/main/August-2nd-week/README.md)
