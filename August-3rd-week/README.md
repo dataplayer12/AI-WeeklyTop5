@@ -4,6 +4,8 @@
 
 [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/pdf/2303.15343.pdf)
 
+[Twitter Thread](https://twitter.com/giffmana/status/1692641733459267713?s=20)
+
 Abstract
 
 We propose a simple pairwise sigmoid loss for image- text pre-training. Unlike standard contrastive learning with softmax normalization, the sigmoid loss operates solely on image-text pairs and does not require a global view of the pairwise similarities for normalization. The sigmoid loss si- multaneously allows further scaling up the batch size, while also performing better at smaller batch sizes. With only four TPUv4 chips, we can train a Base CLIP model at 4 k batch size and a Large LiT model at 20 k batch size, the latter achieves 84.5% ImageNet zero-shot accuracy in two days. This disentanglement of the batch size from the loss further allows us to study the impact of examples vs pairs and neg- ative to positive ratio. Finally, we push the batch size to the extreme, up to one million, and find that the benefits of growing batch size quickly diminish, with a more rea- sonable batch size of 32 k being sufficient. We hope our re- search motivates further explorations in improving the qual- ity and efficiency of language-image pre-training.
