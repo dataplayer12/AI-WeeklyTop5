@@ -8,6 +8,8 @@ This repo hosts the papers covered in our weekly series of talks 'Top 5 AI paper
 
 # Weekly Clubhouse Rooms
 
+## [September 1st Week](https://github.com/dataplayer12/AI-WeeklyTop5/tree/main/September-1st-week)
+
 ## [August 4th Week](https://github.com/dataplayer12/AI-WeeklyTop5/tree/main/August-4th-week)
 
 ## [August 3rd Week](https://github.com/dataplayer12/AI-WeeklyTop5/tree/main/August-3rd-week/README.md)
