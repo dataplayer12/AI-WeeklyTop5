@@ -3,6 +3,9 @@ Top 5 papers in AI every week
 
 This repo hosts the papers covered in our weekly series of talks 'Top 5 AI papers this week' on the Clubhouse app and links to my blog posts on Top 5 AI papers of the month.
 
+# Posdcasts
+New podcasts coming soon
+
 # Monthly Blog Posts
 ## [Top 5 AI Papers of July 2023](https://learnopencv.com/top-5-ai-papers-of-july-2023/)
 
