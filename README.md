@@ -3,6 +3,9 @@ Top 5 papers in AI every week
 
 This repo hosts the papers covered in our weekly series of talks 'Top 5 AI papers this week' on the Clubhouse app and links to my blog posts on Top 5 AI papers of the month.
 
+# Coming soon...
+Best books about ML in 2023
+
 # Posdcasts
 New podcasts coming soon
 
