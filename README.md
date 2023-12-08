@@ -6,6 +6,9 @@ This repo hosts the papers covered in our weekly series of talks 'Top 5 AI paper
 # Coming soon...
 Best books about ML in 2023
 
+# Posdcasts
+New podcasts coming soon
+
 # Monthly Blog Posts
 ## [Top 5 AI Papers of July 2023](https://learnopencv.com/top-5-ai-papers-of-july-2023/)
 
